@@ -55,13 +55,13 @@ function Camp() {
             backgroundImage='bg-bg-img-1'
             title='Putuk Truno Camp'
             subtitle='Prigen Pasuruan'
-            peopleJoinend='50+ Joined'
+            peopleJoined='50+ Joined'
           />
           <CampSite 
             backgroundImage='bg-bg-img-2'
             title='Mountain View Camp'
             subtitle='Somewhere in the wilderness'
-            peopleJoinend='50+ Joined'
+            peopleJoined='50+ Joined'
           />
         </div>
 
